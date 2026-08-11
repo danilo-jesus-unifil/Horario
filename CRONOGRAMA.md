@@ -3,9 +3,9 @@
 |----|----|----|----|----|----|
 |**14:00-15:00**|LondriTech|Pesquisa de Navegadores|Atividade POO|Relatorio Pensamento|Atividade Guilherme|
 |**15:00-15:45**|LondriTech|Cronograma + Relatório|Intervalo(15:20-15:45)|Relatorio Pensamento|Atividade Guilherme|
-|**15:45-16:00**|Criticas contra Alunos|Relatorio LondriTech|Flexivel|Flexivel|Pesquisas|
-|**16:00-16:30**|Intervalo|Intervalo|Pensamento Computacional|Intervalo|Intervalo|
-|**16:30-17:00**|Atividade|Atividade Matematica|Pensamento Computacional|Atividade|Grupo de IA|
+|**15:45-16:00**|Criticas contra Alunos|Incubadora|Flexivel|Flexivel|Pesquisas|
+|**16:00-16:30**|Intervalo|Incubadora|Pensamento Computacional|Intervalo|Intervalo|
+|**16:30-17:00**|Atividade|Incubadora|Pensamento Computacional|Atividade|Grupo de IA|
 |**17:00-18:00**|Pesquisa|Pesquisa|Pensamento Computacional|Atividade|Grupo de IA|
 
 Pesquisei mais navegadores para testar, meus alvos agora serão Mullvad, Orion, Min, Floorp, Qutebrowser

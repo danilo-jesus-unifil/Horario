@@ -10,5 +10,7 @@
 
 Pesquisei mais navegadores para testar, meus alvos agora serão Mullvad, Orion, Min, Floorp, Qutebrowser
 
+Bom, o Orion não tem para Windows, o Floorp não faz o meu estilo(é tipo o Vivaldi, hiper costumização), o Mullvad não consigo acessar o site, então vou ter que baixar pelo codigo fonte, o min teve o mesmo problema, ele não tem assinatura digital então parei na hora de instalar ele, instalei o Qutebrowser, bom, realmente é diferenciado um navegador apenas de teclado(não gostei)
+
 Já testei: Zen Browser(5.0), LibreWolf(4.2), Thorium(3.7), Firefox(4.1), Brave(4.5), Chrome(3.4), Edge(2.6), Dooble(2.9), K-Meleon(1.4), WaterFox(3.3), Palemoon(2.8), Midori(1.7)
 

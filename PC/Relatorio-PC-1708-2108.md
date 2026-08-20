@@ -1,0 +1,12 @@
+Nesta aula o instrutor Victor Andrade não pode vir dar aula então o instrutor Guilherme Perez veio dar aula em seu lugar, e sendo honesto, aparentemente os alunos gostarma mais da aula do Guilherme do que do Victor, pois o instrutor Victor/Andrade as vezes acelera muito o ritimo, e o instrutor temporario não conseguia ir mais rápido, então foi bom, e o instrutor temporario para descobrir o nível dos alunos, fez um kahoot, e os alunos apreciaram bastante este kahoot.
+
+Posteriormente o mesmo instrutor compartilhou o código da onde ele tinha parado, o que ajudou imensamente os outros alunos, pois alguns faltaram, alguns chegaram na metade da aula anterior e desistiram de seguir o instrutor, e após o compartilhamento, vários alunos conseguiram continuar a seguir o instrutor.
+
+Eu, inicialmente para ajudar um dos alunos da minha fileira que estava com problemas pois havia faltado na aula anterior, pedi para que outro aluno colocasse o código no github para que o aluno pudesse pelomenos tentar seguir o instrutor, ao copiar tudo do arquivo final e deletar o que o instrutor não tem, pedi para que ele fizesse isso, mas então, o instrutor pouco tempo depois colocou o proprio codigo dele no github, então depois tirei foto do link do Github e passei o link para mais quatro alunos, para que pudessem continuar na aula(pois é, esses são só os que eu atendi..)
+
+Enfim, fui atendendo os alunos, e depois voltei novamente ao meu esforço de fazer os alunos quererem fazer algo da area, tipo, eu constantemente redirecionei um aluno para parar de jogar e fazer algo no computador, seja fazendo ele parar de jogar no computador ou no proprio celular, foi dificil mas consegui manter por um tempo, teve até um momento que ele foi jogar no computador mas esqueceu de verificar se o computador estava mutado, então no final ele clicou para abrir o jogo e abriu o jogo com o som no máximo e bom.. a sala inteira ouviu(eu tava de costas)
+
+Também ouve momentos em que um aluno estava entediado(estava no inicio da aula ainda na parte de pegar o repositorio do instrutor), então mostrei para ele o http cat, e bom, ele ficou lendo, vi que ele leu até o erro 103, enfim, depois para aquele aluno que não queria prestar atenção na aula, pedi pra ele jogar o joguinho do sapo, ele jogou por pouco tempo, o jogo do sapinho se consiste em organizar sapos utilizando flex box
+
+Bom, sobre meu jeito de reagir na aula não sei o que mudar, pois bem, fiz o que pude, mas talvez possa tentar pedir para os alunos ficarem mais em silencio, digo, pedir mais vezes
+

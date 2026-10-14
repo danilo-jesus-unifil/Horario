@@ -1,1 +1,1 @@
-Nesta aula o instrutor Victor Andrade não pode comparecer
+Nesta aula o instrutor Victor Andrade não pode comparecer pois estava ocupado, então o instrutor Guilherme Perez veio em seu lugar para dar aula, e deu a aula planejada pelo Victor, e algumas horas antes da aula ele me perguntou o que os alunos já sabiam, e então respondi que alguns sabem o que é grid, mas a maioria tem uma noção sobre o que é flexbox

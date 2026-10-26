@@ -1,1 +1,1 @@
-Nesta aula o instrutor Koga
+Nesta aula o instrutor Gabriel Koga veio, e ele no inicio da aula perguntou se os alunos preferiam fazer a atividade proposta pelo Guilherme na aula anterior ou fazer ela em casa e na aula fazer kahoot, e bom, foi díficil para ele realizar as perguntas pois os alunos estavam muito animados

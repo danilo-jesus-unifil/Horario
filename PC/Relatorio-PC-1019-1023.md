@@ -1,1 +1,5 @@
-Nesta aula o instrutor
+Nesta aula o instrutor Victor Andrade não pode vir novamente, então quem tomou o seu lugar foi o instrutor Guilherme Perez, então nesta aula veio alguns alunos dos quais na aula passada não vieram, achei está aula bem satisfatória em comparação a outra, gostei bastante dela e dos resultados dela, pois eu pude ajudar de perto vários alunos a fazerem os objetivos, na minha fileira havia 2 alunos, atrás de mim havia um, e ajudava os três o máximo do qual eu podia pois cada aluno requeria tempo de entender rapidamente o que eles precisavam e dar dicas pontuais ou simplesmente as respostas.
+
+Enfim, o exercício proposto pelo instrutor foi fazer o CSS do projeto de lista de tarefas com check list, e sinceramente gostei bastante, pois cada aluno tentou de uma forma diferente com o que sabia, e pelo HTML e CSS permitirem fazer a mesma coisa de múltiplas formas foi muito interessante de assistir, criar dicas, formas de eles conseguirem se desenvolver sozinhos, como por exemplo, falar as ferramentas que eles podem usar para descobrir certas coisas do código, por exemplo onde começa e acaba o margin, também o padding, border, etc, também foi ensinado a usar div, classes, o mais importante ensinado e aprendido até agora foi que ao colocar um espaço na área de colocar o nome da classe, você simplesmente cria outra classe.
+
+
